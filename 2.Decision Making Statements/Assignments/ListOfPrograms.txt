@@ -1,0 +1,4 @@
+#1.WAP to check whether number is even or odd
+#2.WAP to check entered number is positive or negative
+#3.WAP to accept character from user and check if its vowel 
+#4.WAP to calculate the following ratio (a+b)(c-d) only if c-d is greater than 0
